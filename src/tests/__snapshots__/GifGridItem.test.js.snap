@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Componente gif Render de comoponete 1`] = `
+<div
+  className="card"
+>
+  <img
+    alt="Gif N"
+    src="../ruta/img.jpg"
+  />
+  <p>
+    Gif N
+  </p>
+</div>
+`;
